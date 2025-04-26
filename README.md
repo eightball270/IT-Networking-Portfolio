@@ -16,5 +16,5 @@ This repository showcases networking projects built using Cisco Packet Tracer an
 
 ### 💬 Let’s Collaborate!
 If you find this project interesting or have ideas for improvement, feel free to connect. I’m always open to feedback and collaboration.  
-📧 Email: [8ballperdana27@gmail.com](mailto:8ballperdana27@gmail.com)  
+📧 E-Mail: [8ballperdana27@gmail.com](mailto:8ballperdana27@gmail.com)  
 🔗 LinkedIn: [Muhammad Iqbal Perdana](https://www.linkedin.com/in/iqbal-perdana27/)
