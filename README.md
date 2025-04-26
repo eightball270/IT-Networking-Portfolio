@@ -5,6 +5,7 @@ Hi, my name is Muhammad Iqbal Perdana, an IT support enthusiast at heart, I'm in
 
 This repository showcases networking projects built using Cisco Packet Tracer and GNS3, simulating networks with Cisco and MikroTik devices. It covers configurations from basic peer-to-peer setups to intermediate routing and switching tasks, including DHCP (server and relay), VLANs, static and dynamic routing, NAT for internet access, and remote access setup via Telnet and SSH on both routers and switches.
 
+
 ### 📑 Portofolio List
 - [Coding Studio - Computer Network Fundamentals (Cisco)](https://github.com/eightball270/CodingStudio-ComputerNetworkFundamentals)
 - [MikroTik Static Routing](https://github.com/eightball270/MikroTik-Static-Routing)
@@ -14,6 +15,7 @@ This repository showcases networking projects built using Cisco Packet Tracer an
 - [OSPF Routing Multi Area](https://github.com/eightball270/OSPF-Routing-Multi-Area)
 - [Cisco and MikroTik Internet Connection](https://github.com/eightball270/Cisco-and-MikroTik-Internet-Connection)
 - [Cisco and MikroTik Internet Connection Pt.2](https://github.com/eightball270/Cisco-and-MikroTik-Internet-Connection-Pt-2)
+
 
 ### 💬 Let’s Collaborate!
 If you find this project interesting or have ideas for improvement, feel free to connect. I’m always open to feedback and collaboration.
