@@ -13,6 +13,7 @@ This repository showcases networking projects built using Cisco Packet Tracer an
 - [OSPF Routing Multi Area](https://github.com/eightball270/OSPF-Routing-Multi-Area)
 - [Cisco and MikroTik Internet Connection](https://github.com/eightball270/Cisco-and-MikroTik-Internet-Connection)
 - [Cisco and MikroTik Internet Connection Pt.2](https://github.com/eightball270/Cisco-and-MikroTik-Internet-Connection-Pt-2)
+Feel free to explore, and thank you for visiting!
 
 ### 💬 Let’s Collaborate!
 If you find this project interesting or have ideas for improvement, feel free to connect. I’m always open to feedback and collaboration.  
